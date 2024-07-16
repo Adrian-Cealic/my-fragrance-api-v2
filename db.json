@@ -191,27 +191,6 @@
             "fragranceType": "Parfum"
         },
         {
-            "productId": "P504984",
-            "brandName": "Yves Saint Laurent",
-            "displayName": "Black Opium Eau de Parfum",
-            "price": "$120.00",
-            "heroImage": "https://www.sephora.com/productimages/sku/s1688852-main-zoom.jpg?imwidth=630",
-            "longDescription": "Black Opium Eau de Parfum by Yves Saint Laurent is a captivating and seductive fragrance. This scent combines coffee and vanilla notes with a warm, woody base, making it perfect for the confident and glamorous woman.",
-            "ingredientDesc": "Alcohol Denat., Parfum (Fragrance), Aqua (Water), Limonene, Linalool, Coumarin, Alpha-Isomethyl Ionone, Citral, Citronellol, Geraniol, Cinnamal, Eugenol.",
-            "fragranceFamily": "Warm & Spicy",
-            "scentType": "Gourmand",
-            "keyNotes": "Coffee, Vanilla, White Flowers",
-            "fragranceDescription": "This fragrance features captivating coffee, vanilla, and white flowers notes, combined with a warm and woody base, creating a seductive and glamorous scent.",
-            "quickLookDescription": "A captivating and seductive fragrance with notes of coffee, vanilla, and white flowers.",
-            "gender": "Women",
-            "type": "Designer",
-            "notes": [
-                "Gourmand",
-                "Warm"
-            ],
-            "fragranceType": "Eau de Parfum"
-        },
-        {
             "productId": "P464319",
             "brandName": "Dior",
             "displayName": "J'adore Eau de Parfum",
@@ -277,7 +256,7 @@
             "brandName": "Le Labo",
             "displayName": "Santal 33 Eau de Parfum",
             "price": "$196.00",
-            "heroImage": "https://n.nordstrommedia.com/id/sr3/7be3d6c4-450f-485b-bb25-e3b95260f342.jpeg?crop=pad&w=780&h=1196",
+            "heroImage": "https://n.nordstrommedia.com/id/sr3/7be3d6c4-450f-485b-bb25-e3b95260f342.jpeg?crop=pad&w=270&h=350",
             "longDescription": "Santal 33 by Le Labo is a distinctive and memorable fragrance. This scent combines cardamom, iris, and violet with a base of sandalwood and cedar, creating a unique and intriguing aroma.",
             "ingredientDesc": "Alcohol Denat., Parfum (Fragrance), Aqua (Water), Limonene, Linalool, Citral, Citronellol, Geraniol.",
             "fragranceFamily": "Woody",
